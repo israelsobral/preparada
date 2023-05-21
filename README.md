@@ -1,0 +1,2 @@
+# preparada
+ Meu anuncio
