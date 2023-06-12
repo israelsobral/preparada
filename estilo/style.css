@@ -6,7 +6,7 @@
 }
 
 body {
-        height: 95vh;
+        
         background-image: linear-gradient(to bottom, #64ae64, #6ab36a, #275427);
         background-repeat: no-repeat;
         background-attachment: fixed;
@@ -44,7 +44,7 @@ header > p {
 main {
     min-width: 300px;
     max-width: 600px;
-    height: 700px;
+    height: 900px;
     background-color: white;
     border-radius: 10px;
     margin: auto;
@@ -53,17 +53,20 @@ main {
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.342);
 }    
 
-img {
-    margin: auto;
-} 
+main img {
+    
+    padding-top: 20px;
+    width: 100%;
+}
 
-main#exame {
+picture.imagem {
+    padding-left: 50px;
     margin: auto;
 }
 
-section.imagem {
-    padding-left: 50px;
-    margin: auto;
+picture.imagem {
+    width: 350px;
+    margin: auto
 }
 
 a {
