@@ -7,7 +7,7 @@
 
 body {
         height: 100vh;
-        background-image: linear-gradient(to bottom, #64ae64, #6ab36a, #275427);
+        background-image: linear-gradient(to bottom, #FFFBD2, #F5FA9B, #FAF554);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
@@ -62,6 +62,7 @@ main img {
 } 
 
 a {
+    padding-left: 5px;
     color: white;
     text-decoration: none;
     color: black;
